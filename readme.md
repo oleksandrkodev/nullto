@@ -1,4 +1,4 @@
-# e need a web scraper to scrap a forum behind Cloudflare.
+# We need a web scraper to scrap a forum behind Cloudflare.
 
 We need a web scraper to scrap (threads/search results) from a forum that runs behind Cloudflare.
 
